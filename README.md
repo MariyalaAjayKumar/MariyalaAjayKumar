@@ -3,8 +3,8 @@
 <h3>👨🏻‍💻 &nbsp;About Me</h3>
 
 💡 &nbsp;I like to explore new technologies and develop websites quickly and ready tov take challenges!.\
-🎓 &nbsp;I'm currently studying Computer Science and Enginnering at Jain-deemed-to-be-university\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Web Development, and Data Science.\
+🎓 &nbsp;I’m currently working as a Software Developer at ZF Group.\
+🌱 &nbsp;I'm on track for learning more about python, .Net Framework, Web Development,terraform,Automation Testing and AWS.\
 ✍️ &nbsp;In my free time, I will read books and Playing games.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at ajaykumarmariyala@gmail.com! I'll try to respond as soon as I can.\
@@ -13,6 +13,10 @@
 <h3> 🛠 &nbsp;Languages and Tools </h3>
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=7B42BC)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
